@@ -9,9 +9,7 @@ Codes and data set for IJCAI2022: Community Question Answering Entity Linking vi
 
 ## Dataset: QuoraEL
 
-We construct a new dataset **QuoraEL**, which contains data of 504 CQA texts in total. The Wikipedia dump (July 2019 version) is used as the reference KB. Our data are in the folder data sets. CQAEL_dataset.json contains QuaraEL data mentioned above. Details of other files can be found in the codes for format conversion.
-
-<!--Since our data set folder is too large, we release it [here](https://drive.google.com/drive/folders/1dW6iw268uDbBdi7opfwOAz_zFyq7DlrH).-->
+We construct a new dataset **QuoraEL**, which contains data of 504 CQA texts in total. The Wikipedia dump (July 2019 version) is used as the reference KB. Our data are in the folder data sets. CQAEL_dataset.json contains QuaraEL data mentioned above. Details of other files can be found in the codes for format conversion. Since our data set folder is too large, we release it [here](https://drive.google.com/drive/folders/1dW6iw268uDbBdi7opfwOAz_zFyq7DlrH).
 
 ### Data format
 
